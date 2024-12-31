@@ -1,5 +1,4 @@
 # Water-Crisis-in-Maji-Ndogo
-### **GitHub Description (Hospital Emergency Room Dashboard)**
 
 #### **Hospital Emergency Room Analysis Dashboard**  
 This project focuses on analyzing and visualizing emergency room performance to enhance operational efficiency and patient care. Built entirely in Power BI, the dashboard provides real-time, actionable insights into critical metrics and trends.
